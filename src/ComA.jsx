@@ -22,7 +22,8 @@ const ComA = () => {
   return (
     <>
       <h1>
-        You Choose Pokemon Number <span style={{ color: "red" }}> {num} </span>
+        You Choose your Pokemon Number{" "}
+        <span style={{ color: "red" }}> {num} </span>
       </h1>
       <h1>
         My name is <span style={{ color: "red" }}>{name}</span>
